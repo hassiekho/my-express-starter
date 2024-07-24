@@ -62,3 +62,21 @@ To start the development server with hot reloading:
 ```
 npm run dev
 ```
+
+
+## Production Build
+
+To build the project for production:
+
+```
+npm run build
+```
+
+To start the production server:
+
+```
+npm start
+```
+
+
+
